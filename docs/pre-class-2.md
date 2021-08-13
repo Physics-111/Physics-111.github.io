@@ -8,5 +8,5 @@
 #### Pre-class 2 Question (Due Thu Sep 2, 1:20 pm)
 
 To receive participation credit for the pre-class exercise, upload a screenshot of your work here:
-https://forms.gle/M8ABNhaFbKB7HJeL7
+[https://forms.gle/M8ABNhaFbKB7HJeL7](https://forms.gle/M8ABNhaFbKB7HJeL7){:target="_blank"}
 
