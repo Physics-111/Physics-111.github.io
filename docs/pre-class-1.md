@@ -2,7 +2,7 @@
 
 #### Pre-class 1 Video
 
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1qraiqpIb7tZeGJCUQH2FkXTYuyrhK0Hm/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
