@@ -4,9 +4,10 @@ Pre-class videos and activities will be available by Fridays of the week before.
 
 Date       | Content
 -----------|------------------------------------------------------------------
-Tue Aug 31 | [Pre-class 1: Introduction to Classical Mechanics](pre-class-1)
-Thu Sep 2  | [Pre-class 2: Calculus of Variations](pre-class-2)
+Tue Aug 31 | [Pre-class 1: Introduction to Classical Mechanics](pre-class-1){:target="_blank"}
+Thu Sep 2  | [Pre-class 2: Calculus of Variations](pre-class-2){:target="_blank"}
   | 
-Tue Sep 7 | [Pre-class 3: Lagrangian Mechanics](pre-class-3)   
-Thu Sep 9 | [Pre-class 4: Applications of Lagrangian Mechanics](pre-class-4)   
-
+<!---
+Tue Sep 7 | [Pre-class 3: Lagrangian Mechanics](pre-class-3){:target="_blank"}   
+Thu Sep 9 | [Pre-class 4: Applications of Lagrangian Mechanics](pre-class-4){:target="_blank"}   
+--->

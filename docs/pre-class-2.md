@@ -3,7 +3,7 @@
 #### Pre-class 2 Readings
 
 ##### HS 3.1-3.5
-<iframe src="https://drive.google.com/file/d/1lC4GySp0Zv_JtMuKcZAx97luvC8gS32z/preview" width="640" height="480" resize="both" overflow="auto" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1lC4GySp0Zv_JtMuKcZAx97luvC8gS32z/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
