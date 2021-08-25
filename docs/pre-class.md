@@ -6,6 +6,7 @@ Date       | Content
 -----------|------------------------------------------------------------------
 Tue Aug 31 | [Pre-class 1: Introduction to Classical Mechanics](pre-class-1){:target="_blank"}
 Thu Sep 2  | [Pre-class 2: Calculus of Variations](pre-class-2){:target="_blank"}
+
 <!---
   | 
 Tue Sep 7 | [Pre-class 3: Lagrangian Mechanics](pre-class-3){:target="_blank"}   

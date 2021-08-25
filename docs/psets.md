@@ -1,4 +1,3 @@
-# Problem Sets
 
 All problem sets are due on Gradescope by 1:20pm (before class) on the day they are due. To receive credit, you must assign pages to each problem when you submit on Gradescope.
 
