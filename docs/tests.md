@@ -6,7 +6,7 @@ All tests are 3 hours long. They are open textbook (Helliwell & Sahakian) and op
 
 **Material Covered**: up to, but not including scattering
 
-**Date**: Tuesday, October 12
+**Date**: Thursday, October 14
 
 **Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 12:30pm-9:30pm. I have reserved Shan 2440 during this time if you would like a quiet room to work in. 
 
