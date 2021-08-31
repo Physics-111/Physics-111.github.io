@@ -14,6 +14,8 @@
 <iframe src="https://drive.google.com/file/d/1QI4QClKTP7DMXUtRP5dtewwfi-q3jdW0/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
+[annotated slides - pre-class2.pdf](https://drive.google.com/file/d/1vH5JbPaGLjhoWqF9PoB0lJL2GaezHV1b/view?usp=sharing){:target="_blank"}
+
 <br>
 <br>
 
