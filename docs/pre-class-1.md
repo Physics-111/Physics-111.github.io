@@ -11,6 +11,8 @@ No readings.
 <iframe src="https://drive.google.com/file/d/1qraiqpIb7tZeGJCUQH2FkXTYuyrhK0Hm/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
+[annotated slides - pre-class1.pdf](https://drive.google.com/file/d/1eLjxM5TyIWiJ0FHK_dWfAg7GWbdBTMtI/view?usp=sharing){:target="_blank"}
+
 <br>
 <br>
 
