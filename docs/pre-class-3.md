@@ -14,14 +14,18 @@
 
 #### Pre-class 3 Video
 
-<iframe src="" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1YJOqHl2T4SPofYXPCGGZCrLrzcEm-eSy/preview" width="640" height="480" allowfullscreen>
 </iframe>
+
+[annotated-slides.pdf](https://drive.google.com/file/d/1ZFLRKZtHk_EMB_0_cmobQ6xDIaD0ClPR/view?usp=sharing){:target="_blank"}
 
 <br>
 <br>
 
 #### Pre-class 3 Question (Due Tue Sep 7, 1:20 pm)
 
+To receive participation credit for the pre-class exercise, upload a screenshot of your work here:
+[https://forms.gle/79Y5kiftus6wceVa9](https://forms.gle/79Y5kiftus6wceVa9){:target="_blank"}
 
 <br>
 
