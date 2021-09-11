@@ -20,7 +20,7 @@
 
 #### Pre-class 5 Video
 
-<iframe src="https://drive.google.com/file/d/1ZBvdsZwK4mOPawqgcSxYF2UqPKKLN_wN/preview" width="640" height="800" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://drive.google.com/file/d/1ZBvdsZwK4mOPawqgcSxYF2UqPKKLN_wN/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 [annotated-slides.pdf](https://drive.google.com/file/d/1EXpfZMuTtarKUnU-tGcehnohNsJ7oQne/view?usp=sharing){:target="_blank"}

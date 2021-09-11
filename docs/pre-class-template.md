@@ -15,7 +15,7 @@
 
 #### Pre-class XX Video
 
-<iframe src="" width="640" height="800" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 [annotated-slides.pdf](){:target="_blank"}

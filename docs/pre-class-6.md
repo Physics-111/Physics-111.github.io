@@ -11,7 +11,7 @@
 
 #### Pre-class 6 Video
 
-<iframe src="https://drive.google.com/file/d/1zQaGaeB8wFfpnKMD_W5I0KmvEJnQTJQp/preview" width="640" height="800" frameborder="20" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://drive.google.com/file/d/1zQaGaeB8wFfpnKMD_W5I0KmvEJnQTJQp/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 [annotated-slides.pdf](https://drive.google.com/file/d/1R4rAoKFW5V7fpyItqnh9zAY--UIvfUcc/view?usp=sharing){:target="_blank"}
