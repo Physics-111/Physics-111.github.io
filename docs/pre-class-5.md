@@ -3,7 +3,7 @@
 #### Pre-class 5 Readings
 
 ##### HS 4.4-4.5
-<iframe src="https://drive.google.com/file/d/1Y4xngtE3vhVYudCEO7wDMu-dyOfHzfgY/presview" width="640" height="480" allowfullscreen>
+<iframe src="https://drive.google.com/file/d/1Y4xngtE3vhVYudCEO7wDMu-dyOfHzfgY/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
 <br>
