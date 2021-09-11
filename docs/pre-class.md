@@ -9,4 +9,7 @@ Thu Sep 2  | [Pre-class 2: Calculus of Variations](pre-class-2){:target="_blank"
   | 
 Tue Sep 7 | [Pre-class 3: Lagrangian Mechanics](pre-class-3){:target="_blank"}   
 Thu Sep 9 | [Pre-class 4: Applications of Lagrangian Mechanics](pre-class-4){:target="_blank"}   
+  | 
+Tue Sep 14 | [Pre-class 5: Noether's Theorem](pre-class-5){:target="_blank"}   
+Thu Sep 16 | [Pre-class 6: The Hamiltonian](pre-class-6){:target="_blank"}   
 
