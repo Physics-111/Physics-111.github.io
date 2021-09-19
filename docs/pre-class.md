@@ -12,4 +12,7 @@ Thu Sep 9 | [Pre-class 4: Applications of Lagrangian Mechanics](pre-class-4){:ta
   | 
 Tue Sep 14 | [Pre-class 5: Noether's Theorem](pre-class-5){:target="_blank"}   
 Thu Sep 16 | [Pre-class 6: The Hamiltonian](pre-class-6){:target="_blank"}   
+  | 
+Tue Sep 21 | [Pre-class 7: Constraints and Lagrange Multipliers](pre-class-7){:target="_blank"}   
+Thu Sep 23 | [Pre-class 8: Two Body Dynamics](pre-class-8){:target="_blank"}   
 
