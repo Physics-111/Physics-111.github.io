@@ -7,7 +7,7 @@ There are several intermediate checkpoints to the computational project.
 
 Due date | Checkpoint
 -------- | ------------
-Fri Oct 15 11:59 pm | Selection of project topic on [this Google Sheet](https://docs.google.com/spreadsheets/d/1ZwSmhN1DX9T5-HTAjYIJF6SqZisEznbMKNZgc3tkwxM/edit?usp=sharing){:target="_blank"}
+Fri Oct 15 11:59 pm | Selection of project topic on [this Google Sheet](https://docs.google.com/spreadsheets/d/1ZwSmhN1DX9T5-HTAjYIJF6SqZisEznbMKNZgc3tkwxM/edit?usp=sharing){:target="_blank"} (see project ideas at bottom of this page)
 Tue Nov 9 1:20 pm | Checkpoint 1:~Derivation of Euler-Lagrange equations (included in PS 7)
 Fri Dec 3 11:59 pm | [Checkpoint 2](https://www.gradescope.com/courses/282409/assignments/1505952){:target="_blank"}:~Euler-Lagrange equations in dimensionless form and numerical solution to equations of motion for **one** point
 Fri Dec 17 11:59 pm | [Final report](https://www.gradescope.com/courses/282409/assignments/1505964){:target="_blank"} --  automatic extension to 9 am on Monday, December 20 (this is a hard, final deadline).
