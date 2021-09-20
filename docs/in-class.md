@@ -8,6 +8,9 @@ Thu Sep 9 | [Lecture 4: Applications of Lagrangian Mechanics](https://drive.goog
  |  
 Tue Sep 14 | [Lecture 5: Noether's Theorem](https://drive.google.com/file/d/1AjlJ-_K5A7hbj89QOUyCXjdN-W0z3xDg/view?usp=sharing){:target="_blank"}  | 
 Thu Sep 16 | [Lecture 6: Properties of the Hamiltonian](https://drive.google.com/file/d/1u23mcNgAo1qcLz7UEZxTC5F2v1EqpteD/view?usp=sharing){:target="_blank"}   |  
+ |  
+Tue Sep 21 | [Lecture 7: Constraints and Lagrange Multipliers](https://drive.google.com/file/d/1OdOEY2N6kYpCpgXZnnjPnPornS_SQ2dR/view?usp=sharing){:target="_blank"}    | [Lec 7 Problems](https://drive.google.com/file/d/1eR6hXfbMzdgS9heqURQkFST45V-CF9F2/view?usp=sharing){:target="_blank"}
+Thu Sep 23 | [Lecture 8: Two Body Dynamics](https://drive.google.com/file/d/1c2IjMWWaJk5qmjCmwnrZMm8UwH10eL9E/view?usp=sharing){:target="_blank"}   
 
 
 
