@@ -11,6 +11,10 @@ Thu Sep 16 | [Lecture 6: Properties of the Hamiltonian](https://drive.google.com
  |  
 Tue Sep 21 | [Lecture 7: Constraints and Lagrange Multipliers](https://drive.google.com/file/d/1OdOEY2N6kYpCpgXZnnjPnPornS_SQ2dR/view?usp=sharing){:target="_blank"}    | [Lec 7 Problems](https://drive.google.com/file/d/1eR6hXfbMzdgS9heqURQkFST45V-CF9F2/view?usp=sharing){:target="_blank"}
 Thu Sep 23 | [Lecture 8: Two Body Dynamics](https://drive.google.com/file/d/1c2IjMWWaJk5qmjCmwnrZMm8UwH10eL9E/view?usp=sharing){:target="_blank"}   
+  | 
+Tue Sep 28 | [Pre-class 9: Kepler Orbits](https://drive.google.com/file/d/18jSFhwbln1E4IDPZsrc5zumHmmPXg71a/view?usp=sharing){:target="_blank"}   |
+Thu Sep 30 | [Pre-class 10: Particle Scattering](https://drive.google.com/file/d/1iu1n-bcMciixKcmXrl9voEFPrny2Q3B4/view?usp=sharing){:target="_blank"}   |
+
 
 
 

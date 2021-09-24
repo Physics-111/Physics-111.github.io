@@ -15,4 +15,8 @@ Thu Sep 16 | [Pre-class 6: The Hamiltonian](pre-class-6){:target="_blank"}
   | 
 Tue Sep 21 | [Pre-class 7: Constraints and Lagrange Multipliers](pre-class-7){:target="_blank"}   
 Thu Sep 23 | [Pre-class 8: Two Body Dynamics](pre-class-8){:target="_blank"}   
+  | 
+Tue Sep 28 | [Pre-class 9: Kepler Orbits](pre-class-9){:target="_blank"}   
+Thu Sep 30 | [Pre-class 10: Particle Scattering](pre-class-10){:target="_blank"}   
+
 
