@@ -18,5 +18,9 @@ Thu Sep 23 | [Pre-class 8: Two Body Dynamics](pre-class-8){:target="_blank"}
   | 
 Tue Sep 28 | [Pre-class 9: Kepler Orbits](pre-class-9){:target="_blank"}   
 Thu Sep 30 | [Pre-class 10: Particle Scattering](pre-class-10){:target="_blank"}   
+  | 
+Tue Oct 5 | [Pre-class 11: Scattering Cross Sections](pre-class-11){:target="_blank"}   
+Thu Oct 7 | [Pre-class 12: [optional] Perihelion Precession & Eigenvalue Review](pre-class-12){:target="_blank"}   
+
 
 

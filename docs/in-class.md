@@ -14,6 +14,10 @@ Thu Sep 23 | [Lecture 8: Two Body Dynamics](https://drive.google.com/file/d/1c2I
   | 
 Tue Sep 28 | [Lecture 9: Kepler Orbits](https://drive.google.com/file/d/18jSFhwbln1E4IDPZsrc5zumHmmPXg71a/view?usp=sharing){:target="_blank"}   | [Two body orbits visualization](https://demonstrations.wolfram.com/TheCelestialTwoBodyProblem/){:target="_blank"}
 Thu Sep 30 | [Lecture: Particle Scattering](https://drive.google.com/file/d/1iu1n-bcMciixKcmXrl9voEFPrny2Q3B4/view?usp=sharing){:target="_blank"}   |
+  | 
+Tue Oct 5 | [Lecture 11: Scattering Cross Sections](https://drive.google.com/file/d/1BoStK99WG0IwldGRW1yP696q9LyNZr9-/view?usp=sharing){:target="_blank"}  |
+Thu Oct 7 | [Lecture 12: Scattering Recitation Problems](https://drive.google.com/file/d/1DKl_w1Fu3IbWQdd1x7NQ_KfuH46qsHx3/view?usp=sharing){:target="_blank"}  | [Lec 12 Problem Solutions](https://drive.google.com/file/d/1_wGpHhtFBV0d7Cj5CNufZlNQ29cPuoTg/view?usp=sharing){:target="_blank"} 
+
 
 
 
