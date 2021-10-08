@@ -21,6 +21,12 @@ Thu Sep 30 | [Pre-class 10: Particle Scattering](pre-class-10){:target="_blank"}
   | 
 Tue Oct 5 | [Pre-class 11: Scattering Cross Sections](pre-class-11){:target="_blank"}   
 Thu Oct 7 | [Pre-class 12: [optional] Perihelion Precession & Eigenvalue Review](pre-class-12){:target="_blank"}   
+  | 
+Tue Oct 12 | No pre-class
+Thu Oct 14 | No pre-class (Midterm 1 today)
+  | 
+Tue Oct 19 | Fall break (no class)
+Thu Oct 21 | [Pre-class 13: Introduction to Oscillations](pre-class-13){:target="_blank"}   
 
 
 

@@ -17,8 +17,12 @@ Thu Sep 30 | [Lecture: Particle Scattering](https://drive.google.com/file/d/1iu1
   | 
 Tue Oct 5 | [Lecture 11: Scattering Cross Sections](https://drive.google.com/file/d/1BoStK99WG0IwldGRW1yP696q9LyNZr9-/view?usp=sharing){:target="_blank"}  |
 Thu Oct 7 | [Lecture 12: Scattering Recitation Problems](https://drive.google.com/file/d/1DKl_w1Fu3IbWQdd1x7NQ_KfuH46qsHx3/view?usp=sharing){:target="_blank"}  | [Lec 12 Problem Solutions](https://drive.google.com/file/d/1_wGpHhtFBV0d7Cj5CNufZlNQ29cPuoTg/view?usp=sharing){:target="_blank"} 
-
-
+  | 
+Tue Oct 12 | Midterm review work day
+Thu Oct 14 | Midterm 1 today
+  | 
+Tue Oct 19 | Fall break (no class)
+Thu Oct 21 | [Lecture 13: Introduction to Oscillations & Coupled Oscillators](https://drive.google.com/file/d/1lY_DuRlk5lTgqFXtDFgk4AUqBWJefCY4/view?usp=sharing){:target="_blank"}   
 
 
 
