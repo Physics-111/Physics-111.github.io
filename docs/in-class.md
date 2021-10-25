@@ -23,6 +23,10 @@ Thu Oct 14 | Midterm 1 today
   | 
 Tue Oct 19 | Fall break (no class)
 Thu Oct 21 | [Lecture 13: Introduction to Oscillations & Coupled Oscillators](https://drive.google.com/file/d/1lY_DuRlk5lTgqFXtDFgk4AUqBWJefCY4/view?usp=sharing){:target="_blank"}   
+  | 
+Tue Oct 26 | [Lecture 14: Coupled Oscillator Recitation](https://drive.google.com/file/d/1N0lZpfhs_VLWLCNY1sNPKVets3fLhVEQ/view?usp=sharing){:target="_blank"}  | [Recitation Solutions](https://drive.google.com/file/d/1l4PJPgw_GzMrQ9VRqhxnBrZBK5HVy3YP/view?usp=sharing){:target="_blank"}
+Thu Oct 28 | [Lecture 15: General Coupled Oscillators](https://drive.google.com/file/d/16mde4iOEQCU-6s3Y6VZq5Q0U7cb2DvMH/view?usp=sharing){:target="_blank"}   | 
+
 
 
 

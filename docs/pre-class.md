@@ -26,7 +26,7 @@ Tue Oct 12 | No pre-class
 Thu Oct 14 | No pre-class (Midterm 1 today)
   | 
 Tue Oct 19 | Fall break (no class)
-Thu Oct 21 | [Pre-class 13: Introduction to Oscillations](pre-class-13){:target="_blank"}   
-
-
-
+Thu Oct 21 | [Pre-class 13: Introduction to Oscillations](pre-class-13){:target="_blank"}  
+  | 
+Tue Oct 26 | [Pre-class 14: Weak Coupling](pre-class-14){:target="_blank"}  
+Thu Oct 28 | [Pre-class 15: General Coupled Oscillators](pre-class-15){:target="_blank"}  
