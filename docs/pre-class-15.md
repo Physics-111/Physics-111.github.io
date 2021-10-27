@@ -26,7 +26,5 @@ Helliwell & Sahakian is available in the Stauffer Lounge.
 
 <br>
 
-[*click here to open the question in a new tab*](){:target="_blank"}
+[*click here to open the question in a new tab*](https://forms.gle/ce94Ue7J4NPkjobdA){:target="_blank"}
 
-<iframe src="" width="640" height="800" frameborder="20" marginheight="0" marginwidth="0">Loading…
-</iframe>
