@@ -30,3 +30,6 @@ Thu Oct 21 | [Pre-class 13: Introduction to Oscillations](pre-class-13){:target=
   | 
 Tue Oct 26 | [Pre-class 14: Weak Coupling](pre-class-14){:target="_blank"}  
 Thu Oct 28 | [Pre-class 15: General Coupled Oscillators](pre-class-15){:target="_blank"}  
+  | 
+Tue Nov 2 | [Pre-class 16: State Space](pre-class-16){:target="_blank"}  
+Thu Nov 4 | [Pre-class 17: Intro to Rigid Body Dynamics](pre-class-17){:target="_blank"}  
