@@ -20,6 +20,12 @@ Here are some [Example problems from past midterms](https://drive.google.com/fil
 
 The exam will be available on Gradescope starting at 8:00 am on October 14 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1538072){:target="_blank"}).
 
+<br> 
+
+##### Midterm 1 Solutions
+[Midterm 1 solutions.pdf](https://drive.google.com/file/d/1x4wika2eFNZ53453N9RwQSO6DEMuy4tu/view?usp=sharing){:target="_blank"}
+
+
 <br>
 
 ## Midterm 2
