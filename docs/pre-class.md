@@ -33,3 +33,7 @@ Thu Oct 28 | [Pre-class 15: General Coupled Oscillators](pre-class-15){:target="
   | 
 Tue Nov 2 | [Pre-class 16: State Space](pre-class-16){:target="_blank"}  
 Thu Nov 4 | [Pre-class 17: Intro to Rigid Body Dynamics](pre-class-17){:target="_blank"}  
+  | 
+Tue Nov 9 | [Pre-class 18: Principal Axes](pre-class-18){:target="_blank"}  
+Thu Nov 11 | [Pre-class 19: Rotating Reference Frames](pre-class-19){:target="_blank"}  
+
