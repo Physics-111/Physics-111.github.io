@@ -26,7 +26,15 @@ Thu Oct 21 | [Lecture 13: Introduction to Oscillations & Coupled Oscillators](ht
   | 
 Tue Oct 26 | [Lecture 14: Coupled Oscillator Recitation](https://drive.google.com/file/d/1N0lZpfhs_VLWLCNY1sNPKVets3fLhVEQ/view?usp=sharing){:target="_blank"}  | [Recitation Solutions](https://drive.google.com/file/d/1l4PJPgw_GzMrQ9VRqhxnBrZBK5HVy3YP/view?usp=sharing){:target="_blank"}
 Thu Oct 28 | [Lecture 15: General Coupled Oscillators](https://drive.google.com/file/d/16mde4iOEQCU-6s3Y6VZq5Q0U7cb2DvMH/view?usp=sharing){:target="_blank"}   | 
-
+ |
+Tue Nov 2 | [Lecture 16: Resonance](https://drive.google.com/file/d/1JEBsPF9jRUlIgrOaOAHPNJZep95IzgpM/view?usp=sharing){:target="_blank"}
+Thu Nov 4 | [Lecture 17: Intro to Rigid Body Rotation](https://drive.google.com/file/d/1AsI0U9o4C0bxBJG_FxgFhkY50WffTRTn/view?usp=sharing){:target="_blank"}
+ |
+Tue Nov 9 | [Lecture 18: Principal Axes](https://drive.google.com/file/d/1Vo7ryLYV3LKzQLflugc5UFlODRr5uTwM/view?usp=sharing){:target="_blank"}
+Thu Nov 11 | [Lecture 19: Rotating Reference Frames](https://drive.google.com/file/d/13AyHeFM-jO1kROwTfViGI_kS3xSAW82c/view?usp=sharing){:target="_blank"}
+ | 
+Tue Nov 16 | [Lecture 20: Free Rotations and Euler's Equations](https://drive.google.com/file/d/10cU6Gd5A7QYkK2jPmNl5a2J345oV8avl/view?usp=sharing){:target="_blank"}
+Thu Nov 18 | Midterm 2 today
 
 
 

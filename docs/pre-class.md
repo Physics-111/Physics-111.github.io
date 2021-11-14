@@ -36,4 +36,6 @@ Thu Nov 4 | [Pre-class 17: Intro to Rigid Body Dynamics](pre-class-17){:target="
   | 
 Tue Nov 9 | [Pre-class 18: Principal Axes](pre-class-18){:target="_blank"}  
 Thu Nov 11 | [Pre-class 19: Rotating Reference Frames](pre-class-19){:target="_blank"}  
-
+  |
+Tue Nov 16 | [Pre-class 20: Free Rotation and Euler's Equations](pre-class-20){:target="_blank"}
+Thu Nov 18 | No pre-class (Midterm 2 today)
