@@ -34,7 +34,13 @@ The exam will be available on Gradescope starting at 8:00 am on October 14 ([dir
 
 **Date**: Thursday, November 18
 
-**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 8:00am-11:59pm. I have reserved Shan B460 from 11:30am-9:30pm if you would like a quiet room to work in. 
+**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 8:00am on Thursday Nov 18 and 11:59pm on Sunday Nov 21. I have reserved Shan B460 from 11:30am-9:30pm on Thursday if you would like a quiet room to work in. 
+
+<br>
+
+### Midterm 2 Gradescope Link
+
+The exam will be available on Gradescope starting at 8:00 am on November 18 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1668565){:target="_blank"}).
 
 
 ## Final Exam
