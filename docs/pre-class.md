@@ -40,5 +40,5 @@ Thu Nov 11 | [Pre-class 19: Rotating Reference Frames](pre-class-19){:target="_b
 Tue Nov 16 | [Pre-class 20: Free Rotation and Euler's Equations](pre-class-20){:target="_blank"}
 Thu Nov 18 | No pre-class (Midterm 2 today)
   |
-Tue Nov 23 | [Pre-class 21: Lagrangian Approach to Rigid Body Rotation](pre-class-22){:target="_blank"}
+Tue Nov 23 | [Pre-class 21: Lagrangian Approach to Rigid Body Rotation](pre-class-21){:target="_blank"}
 Thu Nov 25 | Thanksgiving Break (no class)
