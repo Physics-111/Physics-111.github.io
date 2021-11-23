@@ -19,6 +19,9 @@ Helliwell & Sahakian is available in the Stauffer Lounge.
 [annotated-slides.pdf](https://drive.google.com/file/d/11b_g9D0SkVOtFqFtjNkYSBxIG6IP-qS5/view?usp=sharing){:target="_blank"}
 
 <br>
+[Euler Angles Applet.cdf](https://drive.google.com/file/d/16PEIJYUU4MIZ7vFTByw1lNVSel5k3lCQ/view?usp=sharing){:target="_blank"}
+
+<br>
 <br>
 
 #### Pre-class 21 Question (Due Tue Nov 23, 1:20 pm)
