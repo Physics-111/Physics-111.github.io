@@ -35,6 +35,9 @@ Thu Nov 11 | [Lecture 19: Rotating Reference Frames](https://drive.google.com/fi
  | 
 Tue Nov 16 | [Lecture 20: Free Rotations and Euler's Equations](https://drive.google.com/file/d/10cU6Gd5A7QYkK2jPmNl5a2J345oV8avl/view?usp=sharing){:target="_blank"}
 Thu Nov 18 | Midterm 2 today
+ | 
+Tue Nov 23 | [Lecture 21: Euler Angles](https://drive.google.com/file/d/10qRZhjdBi_m85hRAmSMrA57AOL-Obepr/view?usp=sharing){:target="_blank"}
+Thu Nov 25 | Thanksgiving Break (no class)
 
 
 
