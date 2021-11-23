@@ -42,3 +42,6 @@ Thu Nov 18 | No pre-class (Midterm 2 today)
   |
 Tue Nov 23 | [Pre-class 21: Lagrangian Approach to Rigid Body Rotation](pre-class-21){:target="_blank"}
 Thu Nov 25 | Thanksgiving Break (no class)
+ |
+Tue Nov 30 | No pre-class (see you in class)
+Thu Dec 2 | [Pre-class 23: Introduction to Hamiltonian Mechanics](pre-class-23){:target="_blank"}
