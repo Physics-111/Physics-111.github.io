@@ -42,6 +42,14 @@ The exam will be available on Gradescope starting at 8:00 am on October 14 ([dir
 
 The exam will be available on Gradescope starting at 8:00 am on November 18 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1668565){:target="_blank"}).
 
+<br> 
+
+##### Midterm 2 Solutions
+[Midterm 2 solutions.pdf](https://drive.google.com/file/d/16jBX-4HCTHHn5vYKjXv50FSeHVYgPHoe/view?usp=sharing){:target="_blank"}
+
+
+<br>
+
 
 ## Final Exam
 
