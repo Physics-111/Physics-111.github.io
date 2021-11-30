@@ -38,6 +38,9 @@ Thu Nov 18 | Midterm 2 today
  | 
 Tue Nov 23 | [Lecture 21: Euler Angles](https://drive.google.com/file/d/10qRZhjdBi_m85hRAmSMrA57AOL-Obepr/view?usp=sharing){:target="_blank"} | [Euler Angles Applet.cdf](https://drive.google.com/file/d/16PEIJYUU4MIZ7vFTByw1lNVSel5k3lCQ/view?usp=sharing){:target="_blank"}
 Thu Nov 25 | Thanksgiving Break (no class) | 
+ | 
+Tue Nov 30 | [Lecture 22: Gyroscopic Motion](https://drive.google.com/file/d/11-jYl9Tcv16yuJ_Klwq6UTWGsg8dzFNa/view?usp=sharing){:target="_blank"} | 
+Thu Dec 2 | [Lecture 23: Introduction to Hamiltonian Mechanics](https://drive.google.com/file/d/111MHsMnt69Y__JGj_2AYDuVMcGLSIGLi/view?usp=sharing){:target="_blank"} | 
 
 
 
