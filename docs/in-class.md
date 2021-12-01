@@ -40,7 +40,7 @@ Tue Nov 23 | [Lecture 21: Euler Angles](https://drive.google.com/file/d/10qRZhjd
 Thu Nov 25 | Thanksgiving Break (no class) | 
  | 
 Tue Nov 30 | [Lecture 22: Gyroscopic Motion](https://drive.google.com/file/d/11-jYl9Tcv16yuJ_Klwq6UTWGsg8dzFNa/view?usp=sharing){:target="_blank"} | 
-Thu Dec 2 | [Lecture 23: Introduction to Hamiltonian Mechanics](https://drive.google.com/file/d/111MHsMnt69Y__JGj_2AYDuVMcGLSIGLi/view?usp=sharing){:target="_blank"} | 
+Thu Dec 2 | [Lecture 23: Introduction to Hamiltonian Mechanics](https://drive.google.com/file/d/111MHsMnt69Y__JGj_2AYDuVMcGLSIGLi/view?usp=sharing){:target="_blank"} | [Hamiltonian Mechanics Recitation Problems](https://drive.google.com/file/d/17rpJNEjjvHMKcP7pxo5OBEJLSsSbiXYz/view?usp=sharing){:target="_blank"}, [Recitation Solutions](https://drive.google.com/file/d/17kcpy-075sHeRHZFcWCUhcOkMxmWHBfN/view?usp=sharing){:target="_blank"}
 
 
 
