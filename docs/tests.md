@@ -59,4 +59,6 @@ The exam will be available on Gradescope starting at 8:00 am on November 18 ([di
 
 **Time & Location**: 2-5pm in Shan 2454
 
-**Formula Sheet**: [The formula sheet is available here](https://drive.google.com/file/d/186tC5NJHW3tp4t793oE1KHtphjsszuuW/view?usp=sharing){:target="_blank"} to view in advance.  
+**Formula Sheet**: [The formula sheet is available here](https://drive.google.com/file/d/186tC5NJHW3tp4t793oE1KHtphjsszuuW/view?usp=sharing){:target="_blank"} to view in advance.
+
+

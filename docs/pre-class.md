@@ -45,3 +45,6 @@ Thu Nov 25 | Thanksgiving Break (no class)
  |
 Tue Nov 30 | No pre-class (see you in class)
 Thu Dec 2 | [Pre-class 23: Introduction to Hamiltonian Mechanics](pre-class-23){:target="_blank"}
+ |
+Tue Dec 7 | [Pre-class 24: Phase Space](pre-class-24){:target="_blank"}
+Thu Dec 9 | [Pre-class 25: Poisson Brackets and Canonical Transformations](pre-class-25){:target="_blank"}
