@@ -1,6 +1,6 @@
 There are two midterm exams and one final exam in this course.
 
-All tests are 3 hours long. They are open textbook (Helliwell & Sahakian) and open notes; but you may **not** use either of the two midterms or their solutions. Any notes you *personally* have made, as well as anything else I have posted on Sakai, are okay to use. You may not use any other resource (including material from past versions of the course), collaborate with, or seek help from anyone.
+All tests are 3 hours long. The midterms are open textbook (Helliwell & Sahakian) and open notes; but you may **not** use either of the two midterms or their solutions. Any notes you *personally* have made, as well as anything else I have posted on Sakai, are okay to use. You may not use any other resource (including material from past versions of the course), collaborate with, or seek help from anyone. The final exam is closed book except for [this provided formula sheet](https://drive.google.com/file/d/186tC5NJHW3tp4t793oE1KHtphjsszuuW/view?usp=sharing){:target="_blank"}
 
 ## Midterm 1
 
@@ -53,10 +53,10 @@ The exam will be available on Gradescope starting at 8:00 am on November 18 ([di
 
 ## Final Exam
 
-**Material Covered**: cumulative - all topics are eligible
+**Material Covered**: cumulative - all topics are eligible - closed book format
 
 **Date**: Thursday, December 16 (exam week)
 
 **Time & Location**: 2-5pm in Shan 2454
 
-
+**Formula Sheet**: [The formula sheet is available here](https://drive.google.com/file/d/186tC5NJHW3tp4t793oE1KHtphjsszuuW/view?usp=sharing){:target="_blank"} to view in advance.  
