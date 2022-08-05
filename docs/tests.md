@@ -1,14 +1,14 @@
 There are two midterm exams and one final exam in this course.
 
-All tests are 3 hours long. The midterms are open textbook (Helliwell & Sahakian) and open notes; but you may **not** use either of the two midterms or their solutions. Any notes you *personally* have made, as well as anything else I have posted on Sakai, are okay to use. You may not use any other resource (including material from past versions of the course), collaborate with, or seek help from anyone. The final exam is closed book except for [this provided formula sheet](https://drive.google.com/file/d/186tC5NJHW3tp4t793oE1KHtphjsszuuW/view?usp=sharing){:target="_blank"}
+All tests are 3 hours long. The midterms are open textbook (Helliwell & Sahakian) and open notes; but you may **not** use previous tests or their solutions. Any notes you *personally* have made, as well as anything else I have posted on Sakai, are okay to use. You may not use any other resource (including material from past versions of the course), collaborate with, or seek help from anyone. The final exam is closed book except for [this provided formula sheet](https://drive.google.com/file/d/186tC5NJHW3tp4t793oE1KHtphjsszuuW/view?usp=sharing){:target="_blank"}
 
 ## Midterm 1
 
 **Material Covered**: up to, but not including scattering
 
-**Date**: Thursday, October 14
+**Date**: Thursday, October 13
 
-**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 8:00am-11:59pm. I have reserved Shan B460 from 11:30am-9:30pm if you would like a quiet room to work in. 
+**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 7:00am-11:59pm. I have reserved Shan 2454 all day if you would like a quiet room to work in. 
 
 **Cover Sheet**: Please carefully read the instructions on the cover sheet. An advanced copy of the [cover sheet is available here](https://drive.google.com/file/d/1SgN4EOAzD75dsSCYUcOUlZaNdI_40jm0/view?usp=sharing){:target="_blank"}
 
@@ -18,7 +18,7 @@ Here are some [Example problems from past midterms](https://drive.google.com/fil
 
 ### Midterm 1 Gradescope Link
 
-The exam will be available on Gradescope starting at 8:00 am on October 14 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1538072){:target="_blank"}).
+The exam will be available on Gradescope starting at 7:00 am on October 13 ([direct link to exam](){:target="_blank"}).
 
 <br> 
 
@@ -32,15 +32,15 @@ The exam will be available on Gradescope starting at 8:00 am on October 14 ([dir
 
 **Material Covered**: up to and including principal axes
 
-**Date**: Thursday, November 18
+**Date**: Thursday, November 17
 
-**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 8:00am on Thursday Nov 18 and 11:59pm on Sunday Nov 21. I have reserved Shan B460 from 11:30am-9:30pm on Thursday if you would like a quiet room to work in. 
+**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 7:00am on Thursday Nov 18 and 11:59pm on Sunday Nov 21. I have reserved Shan 2454 from all day on Thursday if you would like a quiet room to work in. 
 
 <br>
 
 ### Midterm 2 Gradescope Link
 
-The exam will be available on Gradescope starting at 8:00 am on November 18 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1668565){:target="_blank"}).
+The exam will be available on Gradescope starting at 7:00 am on November 17 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1668565){:target="_blank"}).
 
 <br> 
 
@@ -55,7 +55,7 @@ The exam will be available on Gradescope starting at 8:00 am on November 18 ([di
 
 **Material Covered**: cumulative - all topics are eligible - closed book format
 
-**Date**: Thursday, December 16 (exam week)
+**Date**: Thursday, December 15 (exam week)
 
 **Time & Location**: 2-5pm in Shan 2454
 

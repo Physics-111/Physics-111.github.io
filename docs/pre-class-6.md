@@ -19,7 +19,7 @@
 <br>
 <br>
 
-#### Pre-class 6 Question (Due Thu Sep 16, 1:20 pm)
+#### Pre-class 6 Question (Due Thu Sep 15, 9:25 am)
 
 <br>
 

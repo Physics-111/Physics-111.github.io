@@ -2,6 +2,9 @@
 
 #### Pre-class 2 Readings
 
+<br>
+##### Note: the textbook readings will only be provided here for the first two weeks of class while you secure your copy of the textbook
+
 ##### HS 3.1-3.5
 <iframe src="https://drive.google.com/file/d/1lC4GySp0Zv_JtMuKcZAx97luvC8gS32z/preview" width="640" height="480" allowfullscreen>
 </iframe>
@@ -19,7 +22,7 @@
 <br>
 <br>
 
-#### Pre-class 2 Question (Due Thu Sep 2, 1:20 pm)
+#### Pre-class 2 Question (Due Thu Sep 1, 9:25 am)
 
 To receive participation credit for the pre-class exercise, upload a screenshot of your work here:
 [https://forms.gle/M8ABNhaFbKB7HJeL7](https://forms.gle/M8ABNhaFbKB7HJeL7){:target="_blank"}

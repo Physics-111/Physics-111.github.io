@@ -20,7 +20,7 @@ Helliwell & Sahakian is available in the Stauffer Lounge.
 <br>
 <br>
 
-#### Pre-class 13 Question (Due Tuesday October 12, 1:20 pm)
+#### Pre-class 13 Question (Due Tuesday October 11, 9:25 am)
 
 <br>
 

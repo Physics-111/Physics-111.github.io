@@ -19,7 +19,7 @@ No readings.
 <br>
 <br>
 
-#### Pre-class 14 Question (Due Tue Oct 26, 1:20 pm)
+#### Pre-class 14 Question (Due Tue Oct 25, 9:25 am)
 
 <br>
 

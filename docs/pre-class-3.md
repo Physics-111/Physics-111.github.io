@@ -22,7 +22,7 @@
 <br>
 <br>
 
-#### Pre-class 3 Question (Due Tue Sep 7, 1:20 pm)
+#### Pre-class 3 Question (Due Tue Sep 6, 9:25 am)
 
 To receive participation credit for the pre-class exercise, upload a screenshot of your work here:
 [https://forms.gle/79Y5kiftus6wceVa9](https://forms.gle/79Y5kiftus6wceVa9){:target="_blank"}

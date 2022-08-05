@@ -23,7 +23,7 @@ Helliwell & Sahakian is available in the Stauffer Lounge.
 <br>
 <br>
 
-#### Pre-class 20 Question (Due Tue Nov 16, 1:20 pm)
+#### Pre-class 20 Question (Due Tue Nov 15, 9:25 am)
 
 <br>
 
