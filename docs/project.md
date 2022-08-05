@@ -21,7 +21,7 @@ Fri Dec 16 11:59 pm | [Final report](https://www.gradescope.com/courses/282409/a
 ## Resources
 
 + [Project Ideas](https://drive.google.com/file/d/1EPXgAQfaRHGWM9VOXcYnHFjJH0Zu9rfu/view?usp=sharing){:target="_blank"}
-+ [Latex Template](https://drive.google.com/drive/folders/19-YwzYkCE-SlP8VPJNNX9MsHeW7d0_v_/view?usp=sharing){:target="_blank"} (including figures for each project)
++ [Latex Template](https://drive.google.com/drive/folders/19-YwzYkCE-SlP8VPJNNX9MsHeW7d0_v_?usp=sharing){:target="_blank"} (including figures for each project)
 + [Example Mathematica Notebook](https://drive.google.com/file/d/1lTc6VBERFt68Kb9RYTLeO9pyGiiks47w/view?usp=sharing){:target="_blank"}
 + [Solving Ordinary Differential Equations with MATLAB](https://matlabacademy.mathworks.com/R2021a/portal.html?course=odes){:target="_blank"}
 + [Overview on Dimensionless Variables](https://drive.google.com/file/d/1SKOO1XIdOXE5J76xTFNSWGM6ADHcwWux/view?usp=sharing){:target="_blank"} 
