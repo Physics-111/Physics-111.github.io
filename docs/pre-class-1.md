@@ -16,7 +16,7 @@ No readings.
 <br>
 <br>
 
-#### Pre-class 1 Question (Due Tue Aug 30, 9:25 am)
+#### Pre-class 1 Question (Due Tue Aug 30, 9:35 am)
 
 To receive participation credit for the pre-class exercise, please answer the following questions.
 

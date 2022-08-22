@@ -1,6 +1,5 @@
-All pre-class activities are due before each class (at 9:25am). Make sure you hit "submit" on the Google Form question for the pre-class activity.
-
-Pre-class videos and activities will be available by Fridays of the week before.  
+All pre-class activities are due before each class (at 9:35am). Make sure you hit "submit" on the Google Form question for the pre-class activity.
+  
 
 Date       | Content
 -----------|------------------------------------------------------------------
