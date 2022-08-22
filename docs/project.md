@@ -9,8 +9,8 @@ Due date | Checkpoint
 -------- | ------------
 Fri Oct 14 11:59 pm | Selection of project topic on [this Google Sheet](https://docs.google.com/spreadsheets/d/1ZwSmhN1DX9T5-HTAjYIJF6SqZisEznbMKNZgc3tkwxM/edit?usp=sharing){:target="_blank"} (see project ideas at bottom of this page)
 Tue Nov 8 9:25 am | Checkpoint 1:~Derivation of Euler-Lagrange equations (included in PS 7)
-Fri Dec 2 11:59 pm | [Checkpoint 2](https://www.gradescope.com/courses/282409/assignments/1505952){:target="_blank"}:~Euler-Lagrange equations in dimensionless form and numerical solution to equations of motion for **one** point
-Fri Dec 16 11:59 pm | [Final report](https://www.gradescope.com/courses/282409/assignments/1505964){:target="_blank"} --  automatic extension to 9 am on Monday, December 19 (this is a hard, final deadline).
+Fri Dec 2 11:59 pm | [Checkpoint 2](https://www.gradescope.com/courses/414094/assignments/2152625){:target="_blank"}:~Euler-Lagrange equations in dimensionless form and numerical solution to equations of motion for **one** point
+Fri Dec 16 11:59 pm | [Final report](https://www.gradescope.com/courses/414094/assignments/2152614){:target="_blank"} --  automatic extension to 9 am on Monday, December 19 (this is a hard, final deadline).
 
 ## Assignment Details
 

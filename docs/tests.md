@@ -18,7 +18,7 @@ Here are some [Example problems from past midterms](https://drive.google.com/fil
 
 ### Midterm 1 Gradescope Link
 
-The exam will be available on Gradescope starting at 7:00 am on October 13 ([direct link to exam](){:target="_blank"}).
+The exam will be available on Gradescope starting at 7:00 am on October 13 ([direct link to exam](https://www.gradescope.com/courses/414094/assignments/2152621){:target="_blank"}).
 
 <br> 
 
@@ -40,7 +40,7 @@ The exam will be available on Gradescope starting at 7:00 am on October 13 ([dir
 
 ### Midterm 2 Gradescope Link
 
-The exam will be available on Gradescope starting at 7:00 am on November 17 ([direct link to exam](https://www.gradescope.com/courses/282409/assignments/1668565){:target="_blank"}).
+The exam will be available on Gradescope starting at 7:00 am on November 17 ([direct link to exam](https://www.gradescope.com/courses/414094/assignments/2152623){:target="_blank"}).
 
 <br> 
 
