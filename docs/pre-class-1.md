@@ -8,6 +8,12 @@ No readings.
 
 #### Pre-class 1 Video
 
+<br> 
+
+**Note: This video mentions the wrong time for our lectures! Our lectures are Tu/Th 9:35-10:50 am**
+
+<br> 
+
 <iframe src="https://drive.google.com/file/d/1qraiqpIb7tZeGJCUQH2FkXTYuyrhK0Hm/preview" width="640" height="480" allowfullscreen>
 </iframe>
 
