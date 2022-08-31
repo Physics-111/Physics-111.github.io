@@ -8,7 +8,7 @@ All tests are 3 hours long. The midterms are open textbook (Helliwell & Sahakian
 
 **Date**: Thursday, October 13
 
-**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 7:00am-11:59pm. I have reserved Shan 2454 all day if you would like a quiet room to work in. 
+**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window. The test must be completed between Thursday 7:00 am and Friday 5:00 pm. I have reserved Shan 2454 all day on Thursday if you would like a quiet room to work in. 
 
 **Cover Sheet**: Please carefully read the instructions on the cover sheet. An advanced copy of the [cover sheet is available here](https://drive.google.com/file/d/1SgN4EOAzD75dsSCYUcOUlZaNdI_40jm0/view?usp=sharing){:target="_blank"}
 
@@ -34,7 +34,7 @@ The exam will be available on Gradescope starting at 7:00 am on October 13 ([dir
 
 **Date**: Thursday, November 17
 
-**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between 7:00am on Thursday Nov 18 and 11:59pm on Sunday Nov 21. I have reserved Shan 2454 from all day on Thursday if you would like a quiet room to work in. 
+**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between Thursday 7:00 am to Friday 5:00 pm. I have reserved Shan 2454 from all day on Thursday if you would like a quiet room to work in. 
 
 <br>
 
