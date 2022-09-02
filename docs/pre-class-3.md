@@ -13,7 +13,7 @@
 <br>
 
 #### Pre-class 3 Video
-
+[open video in new tab](https://drive.google.com/file/d/1YJOqHl2T4SPofYXPCGGZCrLrzcEm-eSy){target="_blank"}
 <iframe src="https://drive.google.com/file/d/1YJOqHl2T4SPofYXPCGGZCrLrzcEm-eSy/preview" width="640" height="480" allowfullscreen>
 </iframe>
 

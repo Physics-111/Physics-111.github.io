@@ -9,7 +9,7 @@ No readings.
 #### Pre-class 14 Video
 
 (start around the 7 minute mark)
-
+[open video in new tab](https://drive.google.com/file/d/1IuowuE30awwvpPkuVH-NL_DvylY7cY6c){target="_blank"}
 <iframe src="https://drive.google.com/file/d/1IuowuE30awwvpPkuVH-NL_DvylY7cY6c/preview?t=7m00s" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 

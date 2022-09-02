@@ -10,7 +10,7 @@
 <br>
 
 #### Pre-class 4 Video
-
+[open video in new tab](https://drive.google.com/file/d/1xyB195bhHNepBPpYpCZ_XQM7WWE_7JWF){target="_blank"}
 <iframe src="https://drive.google.com/file/d/1xyB195bhHNepBPpYpCZ_XQM7WWE_7JWF/preview" width="640" height="480" allowfullscreen>
 </iframe>
 [annotated-slides.pdf](https://drive.google.com/file/d/1mkhHbqyQSDejmXIKlcltFrHoKmUNmvwV/view?usp=sharing){:target="_blank"}
