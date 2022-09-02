@@ -14,7 +14,7 @@ No readings.
 
 <br> 
 
-[open video in new tab](https://drive.google.com/file/d/1qraiqpIb7tZeGJCUQH2FkXTYuyrhK0Hm){target="_blank"}
+[open video in new tab](https://drive.google.com/file/d/1qraiqpIb7tZeGJCUQH2FkXTYuyrhK0Hm){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1qraiqpIb7tZeGJCUQH2FkXTYuyrhK0Hm/preview" width="640" height="480" allowfullscreen>
 </iframe>

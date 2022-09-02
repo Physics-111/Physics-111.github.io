@@ -11,7 +11,7 @@ Helliwell & Sahakian is available in the Stauffer Lounge.
 
 #### Pre-class 13 Video
 
-[open video in new tab](https://drive.google.com/file/d/1BdXyTcqSUiiR3bycJEoIXErmARAyqGAS){target="_blank"}
+[open video in new tab](https://drive.google.com/file/d/1BdXyTcqSUiiR3bycJEoIXErmARAyqGAS){:target="_blank"}
 
 <iframe src="https://drive.google.com/file/d/1BdXyTcqSUiiR3bycJEoIXErmARAyqGAS/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
