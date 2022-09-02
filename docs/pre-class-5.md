@@ -19,7 +19,9 @@
 <br>
 
 #### Pre-class 5 Video
+
 [open video in new tab](https://drive.google.com/file/d/1ZBvdsZwK4mOPawqgcSxYF2UqPKKLN_wN){target="_blank"}
+
 <iframe src="https://drive.google.com/file/d/1ZBvdsZwK4mOPawqgcSxYF2UqPKKLN_wN/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 

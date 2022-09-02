@@ -2,7 +2,9 @@
 
 
 #### Pre-class 12 Video (Optional)
+
 [open video in new tab](https://drive.google.com/file/d/18fYDOpY6tspMdYJvUdQenG9Cj3z5wS0s){target="_blank"}
+
 <iframe src="https://drive.google.com/file/d/18fYDOpY6tspMdYJvUdQenG9Cj3z5wS0s/preview" width="640" height="480" frameborder="20" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
