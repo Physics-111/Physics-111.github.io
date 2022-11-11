@@ -34,7 +34,7 @@ The exam will be available on Gradescope starting at 7:00 am on October 13 ([dir
 
 **Date**: Thursday, November 17
 
-**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between Thursday 7:00 am to Friday 11:59 pm. I have reserved Shan 2454 from all day on Thursday if you would like a quiet room to work in. 
+**Time & Location**: "take-home" style. Must be completed within a continuous 3-hour window between Thursday 7:00 am to Sunday 11:59 pm. I have reserved Shan 2454 from all day on Thursday if you would like a quiet room to work in. 
 
 <br>
 
