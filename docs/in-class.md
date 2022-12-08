@@ -43,6 +43,6 @@ Tue Nov 29 | [Lecture 22: Gyroscopic Motion](https://drive.google.com/file/d/11-
 Thu Dec 1 | [Lecture 23: Introduction to Hamiltonian Mechanics](https://drive.google.com/file/d/111MHsMnt69Y__JGj_2AYDuVMcGLSIGLi/view?usp=sharing){:target="_blank"} | [Hamiltonian Mechanics Recitation Problems](https://drive.google.com/file/d/17rpJNEjjvHMKcP7pxo5OBEJLSsSbiXYz/view?usp=sharing){:target="_blank"}, [Recitation Solutions](https://drive.google.com/file/d/17kcpy-075sHeRHZFcWCUhcOkMxmWHBfN/view?usp=sharing){:target="_blank"}
 
 Tue Dec 6 | [Lecture 24: Phase Space and Liouville's Theorem](https://drive.google.com/file/d/117_WBRAj87BayY-lyr0YDdDgDd7KJ4I9/view?usp=sharing){:target="_blank"} | 
-Thu Dec 8 | [Lecture 25: Poisson Brackets and Connections to Quantum](https://drive.google.com/file/d/118MRFOdz1Zwi-2Lb3lJHmaUmT5jxu7mX/view?usp=sharing){:target="_blank"} | 
+Thu Dec 8 | [Lecture 25: Poisson Brackets and Connections to Quantum](https://drive.google.com/file/d/118MRFOdz1Zwi-2Lb3lJHmaUmT5jxu7mX/view?usp=sharing){:target="_blank"} | [Extra Problems](https://drive.google.com/file/d/11nt2KyBMRNuD7OfmCReR86pAMzBR-NlU/view?usp=sharing){:target="_blank"}
 
 
